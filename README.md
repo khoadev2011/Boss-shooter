@@ -1,6 +1,8 @@
 # Boss-shooter
-The Game where you - a tank with no reason for existance - fight against a huge boss - which also have no reason for existance.
+The Game where you - a tank with no reason for existance - fight against a huge boss - which also have no reason for existance. \n
+Plan to remake the game in Unity
 
-# How to deploy
-The game originally write in Scratch and then converted to HTML.
+# How to open
+The game originally write in Scratch and then converted to HTML. \n
+There are 2 version of the games, the normal (playable through browser) and The IMPOSSIBLE.
 Open the .sb3 file with Scratch 3.0 (Web or App).
